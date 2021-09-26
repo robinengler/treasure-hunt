@@ -18,3 +18,9 @@ echo " * key 2: Blackbird's castle, the west tower of the castle."
 echo " * key 3: Oyster bay, the old lighthouse, that was a pirate meeting place."
 echo " "
 sleep 2
+
+# Parrot gives a hint...
+for i in $( seq 1 10); do
+    echo "It's in the rhum bottles..."
+    sleep 2
+done
