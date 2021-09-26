@@ -14,6 +14,11 @@ function pirate_say {
     echo -e "$1"
 }
 
+function parrot_say {
+    cat .script/parrot.ascii
+    echo -e "$1"
+}
+
 function get_key_code {
     key_nb=$1
     cat .support_files/$(sha256sum "lock_${key_nb}/key_${key_nb}" | cut -c1-64) | cut -c$(($key_nb*2-1)),$(($key_nb*2+3))
