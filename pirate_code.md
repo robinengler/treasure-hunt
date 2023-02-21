@@ -39,8 +39,8 @@ rank in your pirate team. IMPORTANT: only sign for yourself, not for others.
 Note to the First mate: make sure you revise article I of the pirate code above, so you
 get your fair share of the prize!
 
-Captain      : NAME_HERE
-Quartermaster: NAME_HERE
+Captain      : Robin
+Quartermaster: Bobby
 First mate   : NAME_HERE
 
 
