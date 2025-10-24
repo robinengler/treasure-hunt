@@ -38,6 +38,6 @@ X.    Any man deserting the ship in battle or rewriting history on the
 * **Note to the First mate:** make sure you revise article I of the pirate code
   above, so you get your fair share of the prize!
 
-Captain      : NAME HERE
+Captain      : vassilios
 Quartermaster: NAME HERE
 First mate   : NAME HERE
